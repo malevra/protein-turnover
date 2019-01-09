@@ -13,7 +13,7 @@
 
 3. **Demo**
 
-	A testing dataset for evaluation purposes of the MATLAB scripts is available in the main associated manuscript (Supplementary Table 2). Expected output is detailed in the main associated manuscript and run time for demo on a "normal" desktop computer is in the order of few hours.
+	A testing dataset for evaluation purposes of the MATLAB scripts is available in the main associated manuscript (Supplementary Table 2). Expected output is detailed in the main associated manuscript and run time for demo on a "normal" desktop computer is in the order of one hour.
 
 4. **Instructions for use**
 
