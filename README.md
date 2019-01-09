@@ -2,7 +2,7 @@
 
 1. **System requirements**
 
-	The script has been tested and works on platforms where MATLAB is installed (version 2014b or more recent) with the Optimization and Statistics Toolbox (The MathWorks, Inc., Natick, Massachusetts, United States; either on Windows, Linux or Mac).
+	The script has been tested and works on platforms where MATLAB is installed (version 2014b or more recent) with the Optimization and Statistics Toolbox (The MathWorks, Inc., Natick, Massachusetts, United States; either on Linux, Mac or Windows).
 
 2. **Installation guide**
 
